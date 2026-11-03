@@ -6,7 +6,7 @@ I'm a developer passionate about building scalable systems, optimizing performan
 
 I mainly focus on **FiveM Development**, **ESX Framework**, and backend systems.
 
-مرحباً! أنا Flash، مطور مهتم بتطوير الأنظمة والبرمجة وتحسين الأداء، خصوصاً في عالم FiveM.
+مهندس برمجيات في مجال قراند الحياة الواقعية 
 
 ---
 
