@@ -31,7 +31,6 @@ I mainly focus on **FiveM Development**, **ESX Framework**, and backend systems.
 - FiveM
 - ESX Framework
 - oxmysql
-- MariaDB
 - MySQL
 
 ---
