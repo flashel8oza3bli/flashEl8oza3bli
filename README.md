@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Flash El8oza3bli!
+
 
 ### 💻 FiveM Developer | Lua Developer | Backend Enthusiast
 
