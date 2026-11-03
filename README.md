@@ -6,7 +6,7 @@ I'm a developer passionate about building scalable systems, optimizing performan
 
 I mainly focus on **FiveM Development**, **ESX Framework**, and backend systems.
 
-مهندس برمجيات في مجال قراند الحياة الواقعية 
+مهندس برمجيات في مجال قراند الحياة الواقعية | Software Engineer specializing in GTA V Roleplay.
 
 ---
 
@@ -63,6 +63,13 @@ I mainly focus on **FiveM Development**, **ESX Framework**, and backend systems.
   <a href="https://github.com/flashEl8oza3bli">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://discord.gg/sB6w5QUMF9">
+    <img src="https://img.shields.io/badge/Discord-Join%20My%20Store-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  **Discord Username:** `f_8o`
 </p>
 
 <p align="center">
